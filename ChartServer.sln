@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatServer", "ChartServer\ChatServer.csproj", "{DE252650-DB2C-4570-B90A-1F2DE8E9CDAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatClient", "..\ChartClient\ChatClient.csproj", "{F5694821-B9FB-4C0A-9F18-60FA11D8B32A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonTest", "..\JsonTest\JsonTest.csproj", "{15AD8CA4-3B7A-4781-86D9-D8BAC07F1249}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE252650-DB2C-4570-B90A-1F2DE8E9CDAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE252650-DB2C-4570-B90A-1F2DE8E9CDAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE252650-DB2C-4570-B90A-1F2DE8E9CDAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE252650-DB2C-4570-B90A-1F2DE8E9CDAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5694821-B9FB-4C0A-9F18-60FA11D8B32A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5694821-B9FB-4C0A-9F18-60FA11D8B32A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5694821-B9FB-4C0A-9F18-60FA11D8B32A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5694821-B9FB-4C0A-9F18-60FA11D8B32A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15AD8CA4-3B7A-4781-86D9-D8BAC07F1249}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15AD8CA4-3B7A-4781-86D9-D8BAC07F1249}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15AD8CA4-3B7A-4781-86D9-D8BAC07F1249}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15AD8CA4-3B7A-4781-86D9-D8BAC07F1249}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
